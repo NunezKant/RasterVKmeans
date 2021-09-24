@@ -1,2 +1,2 @@
 # RasterVKmeans
-Notebook containing benchmarks and comparisons between the unsupervised clustering method and KMeans
+Notebook containing benchmarks and comparisons between the unsupervised clustering method [rastermap](https://github.com/MouseLand/rastermap) and KMeans, Leiden, etc...
